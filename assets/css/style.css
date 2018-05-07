@@ -1,0 +1,42 @@
+#header {
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+label {
+	font-size: 18px;
+}
+
+#show {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#DisneySearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.DisneyGiphy {
+	padding: 2px;
+	height: 200px;
+	width: 300px;
+
+}
+
+.DisneySearch {
+	float: left;
+}
